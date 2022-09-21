@@ -125,4 +125,4 @@ $ git status
 
 6) Add , commit and push changes.
 
-This was a short tutorial to get you oriented with Git and Github as a newcomer. Please feel free to comment and add any thoughts at all.
+### This was a short tutorial to get you oriented with Git and Github as a newcomer. Please feel free to comment and add any thoughts at all.
