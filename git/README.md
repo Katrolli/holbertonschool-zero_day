@@ -38,6 +38,8 @@ A Git repository allows performing various operations on it to create different 
 First, log into your Github account and follow these steps :
 
 1) In the upper-right corner of the page, use the + drop-down menu, and select **New repository**.
+
+
 ![Image](https://docs.github.com/assets/cb-11427/images/help/repository/repo-create.png)
 
 
