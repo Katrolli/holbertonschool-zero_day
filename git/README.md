@@ -39,6 +39,8 @@ First, log into your Github account and follow these steps :
 
 1) In the upper-right corner of the page, use the + drop-down menu, and select **New repository**.
 ![Image](https://docs.github.com/assets/cb-11427/images/help/repository/repo-create.png)
+
+
 2) Type a short, memorable name for your repository. For example, "home sweet home".
 
 
@@ -46,6 +48,7 @@ First, log into your Github account and follow these steps :
 ![image](https://docs.github.com/assets/cb-26377/images/help/repository/create-repository-desc.png)
 
 4) Choose a repository visibility.
+
 ![image](https://docs.github.com/assets/cb-20877/images/help/repository/create-repository-public-private.png)
 
 5) (Optional) Select *Initialize* this repository with a README.
