@@ -62,8 +62,8 @@ First, log into your Github account and follow these steps :
 - Basic commands needed
 
 ```
-git add file_name
-git add . 
+git add file_name  (This command allows you to add the specific file which is determined by the file name after the "add" command)
+git add . (This command allows you to add all the files of the branch determined by the  "." syntax)
 ```
 The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit
 ```
@@ -125,4 +125,4 @@ $ git status
 
 6) Add , commit and push changes.
 
-
+This was a short tutorial to get you oriented with Git and Github as a newcomer. Please feel free to comment and add any thoughts at all.
